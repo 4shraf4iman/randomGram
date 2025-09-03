@@ -10,4 +10,4 @@ npm install
 
 
 LIVE DEMO TESTING ->
-[http://](https://spontaneous-smakager-42df61.netlify.app/)
+https://spontaneous-smakager-42df61.netlify.app/
